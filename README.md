@@ -1,1 +1,1 @@
-# **Project Sample**
+# **Project Sample** [![Build status](https://ci.appveyor.com/api/projects/status/gdiscb3n333hp5oo/branch/main?svg=true)](https://ci.appveyor.com/project/MoskalevDA/dzapi/branch/main)
